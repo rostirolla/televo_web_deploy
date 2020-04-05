@@ -44,7 +44,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "0db41909cd5bfd986de88ae513c204e0",
 "/": "0db41909cd5bfd986de88ae513c204e0",
-"main.dart.js": "d4c52398c8af3acc44cf7fb5fa25180d",
+"main.dart.js": "6bd52a269b2127e0f56aba1aa96caed5",
 "manifest.json": "a6ada579a0f66b0d46f57ebd9edc735d"
 };
 

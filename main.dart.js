@@ -8615,7 +8615,7 @@ U3:function(a){var t=0,s=P.T(u.jx),r,q,p,o,n,m,l,k,j
 var $async$U3=P.O(function(b,c){if(b===1)return P.Q(c,s)
 while(true)switch(t){case 0:l=u.N
 k=P.au(["Content-Type","application/json"],l,l)
-j="http://viacep.com.br/ws/"+a+"/json/"
+j="https://viacep.com.br/ws/"+a+"/json/"
 P.bB("GET > "+j)
 t=3
 return P.U(G.wJ(j,k),$async$U3)
