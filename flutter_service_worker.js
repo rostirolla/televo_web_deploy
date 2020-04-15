@@ -8,7 +8,7 @@ const RESOURCES = {
 "assets/assets/images/onboarding4.png": "c4f6e67efaf65d7b05efda53210febc1",
 "assets/assets/images/onboarding5.png": "d122a7b104afa09b0ca1e5ee3c6331db",
 "assets/assets/images/onboarding6.png": "3417fc42a20340778f972006b27d1c02",
-"assets/assets/images/onboarding7.png": "084ab5fe15e882b10680145c6d9a4366",
+"assets/assets/images/onboarding7.png": "3e520dccf77d0dcd20144d9894072958",
 "assets/FontManifest.json": "f6f5516706d040a3652032215a256b31",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/google_fonts/Roboto-Black.ttf": "5ebb24ee1112dd9562629375c387879a",
@@ -39,7 +39,7 @@ const RESOURCES = {
 "assets/google_fonts/RobotoMono-Regular.ttf": "b4618f1f7f4cee0ac09873fcc5a966f9",
 "assets/google_fonts/RobotoMono-Thin.ttf": "288302ea531af8be59f6ac2b5bbbfdd3",
 "assets/google_fonts/RobotoMono-ThinItalic.ttf": "355d559cc860016a068bcd16b66e4bd3",
-"assets/LICENSE": "293bbe6248fc0ca87d48508da368abdb",
+"assets/LICENSE": "09f0454b2615b34b755c690d543f2e92",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/packages/flutter_vector_icons/fonts/AntDesign.ttf": "3a2ba31570920eeb9b1d217cabe58315",
 "assets/packages/flutter_vector_icons/fonts/Entypo.ttf": "744ce60078c17d86006dd0edabcd59a7",
@@ -65,7 +65,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "0db41909cd5bfd986de88ae513c204e0",
 "/": "0db41909cd5bfd986de88ae513c204e0",
-"main.dart.js": "47262ce00f509b542c3f8ad262ab6edc",
+"main.dart.js": "8dc2af33236e2f866b49aba79dffad60",
 "manifest.json": "a6ada579a0f66b0d46f57ebd9edc735d"
 };
 
